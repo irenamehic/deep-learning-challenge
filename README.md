@@ -27,8 +27,8 @@ Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
   
 Were you able to achieve the target model performance?
-  No not quite, there wasn't much of a change in accuracy. it was around 73%
+   - No not quite, there wasn't much of a change in accuracy. it was around 73%
 What steps did you take in your attempts to increase model performance?
-  I removed another column, adjusted the input features, and added 3 hidden layers.
+   - I removed another column, adjusted the input features, and added 3 hidden layers.
 Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
-  I think I could improve one some of the data pre-proceesing and maybe a different type of model, as well as the neruons/layers.
+  -  I think I could improve one some of the data pre-proceesing and maybe a different type of model, as well as the neruons/layers.
